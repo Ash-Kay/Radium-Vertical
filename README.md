@@ -2,8 +2,7 @@
 
 This is a **Vertical Slice** of a social networking platform in Node.js
 
-### Tech
-
+## Tech
 Radium uses a number of open source projects to work:
 * Knex.js - Knex.js is a SQL query builder.
 * Joi - Schema description language and data validator
